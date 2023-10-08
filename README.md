@@ -9,10 +9,8 @@ Nice to meet you, I'm Gustav
 - 📝 Writing Words, Compiling Code
 - 🎯 Goal : To be a better Developer 
 - 📫 How to reach me : [gustavarend@me.com](mailto:gustavarend@me.com)
-- ⚡ Fun Facts : 
-    - Loves bad humor 
-    - Overthinks thinking to not to overthink 🙂
-    - Hayat nedir, canım? ( Ahh, Learning Turkish out of curiosity ) 🙃
+- ⚡ Fun Fact: Love bad humor/jokes 
+   
 
 <br>
 
