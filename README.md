@@ -18,7 +18,7 @@ Nice to meet you, I'm Gustav
 
 ## My Weapons 🌟
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tidbitsjs&theme=react)](https://github.com/tidbitsjs/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavarendd&theme=react)](https://github.com/tidbitsjs/github-readme-stats)
 
 <br>
 
